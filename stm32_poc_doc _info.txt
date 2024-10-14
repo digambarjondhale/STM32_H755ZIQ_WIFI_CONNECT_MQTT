@@ -1,0 +1,46 @@
+stm32 poc :-
+study in these project :- To implement a project where you connect to Wi-Fi, read data from sensors,
+                          and send that data to Azure Cloud using AIROC packages 1.6, LWIP, MbedTLS, and MQTT, follow the steps below. 
+						  This will create a simple Proof of Concept (PoC) application using your specific environment.
+
+Key Components:
+1)Wi-Fi connection using AIROC
+2)Reading sensor data
+3)MQTT client setup using LWIP and MbedTLS
+4)TLS-encrypted communication
+5)Send sensor data to Azure Cloud
+
+hardware using these project 
+   1) STM32 NUCLEO-H755ZI-Q
+   2) M.2 Radio (BT/WiFi)
+   3) Adaptor board LBEE0ZZ2WS-ST-NCL 
+   4) Radar sensor
+   5) Temp and Humidity sensor
+software packages :- https://github.com/Infineon/AIROC-Wi-Fi-Bluetooth-STM32/archive/refs/tags/release-v1.6.1.zip 
+ 
+ IMP NOTE:- I am using a Wi-Fi scan project and building it, but sometimes I encounter an error related to the lwipopts.h file.
+ After resolving this error and building the project, it still doesn't work.
+ At that point, I download STM32CubeMX, open the Wi-Fi scan and Wi-Fi MQTT client projects,
+ generate the code, and then open the project in STM32CubeIDE to build it.
+ Sometimes I face issues, but after multiple attempts, it eventually works."
+
+Software :- 
+1) install STM32cubeid 
+2) install STM32CubeMX
+
+First Part (Current Setup):
+You connect the STM32 board to Wi-Fi.
+Sensor data is sent via non-secure MQTT to a Dell Gateway.
+The Dell Gateway forwards the data to the cloud, acting as an intermediary because the STM32 board is not using secure MQTT with TLS, which is required for direct cloud communication.
+
+Second Part (Future Goal):
+The goal is to send data directly from the STM32 board to the cloud (Azure).
+This will require the use of secure MQTT with TLS for encryption, allowing direct communication between the STM32 board and the Azure Cloud without the Dell Gateway acting as a middleman.
+:- 
+
+current setup code loaed in git repo :
+wifi scan these folder name 
+
+changes code require:-
+wifi_task_file :- wifi id and password added some time is connect 2.4gh some time connect 5gh try miltiple wifi office mobile and home cheack also wifi secuirty
+mqtt_file :- key ,id ,certificate, topic name changes as per your set

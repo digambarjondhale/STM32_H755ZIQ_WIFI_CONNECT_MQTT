@@ -1,0 +1,2 @@
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/pal/abstraction-rtos/source/COMPONENT_FREERTOS/cyabs_freertos_common.c:36:13:_cyhal_system_irq_clear_disabled_in_pending	1
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/pal/abstraction-rtos/source/COMPONENT_FREERTOS/cyabs_freertos_common.c:51:11:convert_ms_to_ticks	4

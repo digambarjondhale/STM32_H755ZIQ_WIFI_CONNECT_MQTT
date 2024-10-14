@@ -1,0 +1,4 @@
+../Application/User/Core/data_publish.c:13:6:generate_motion_event	1
+../Application/User/Core/data_publish.c:20:6:generate_package_data	1
+../Application/User/Core/data_publish.c:35:6:generate_heartbeat_package_data	1
+../Application/User/Core/data_publish.c:62:6:generate_event_package_data	1

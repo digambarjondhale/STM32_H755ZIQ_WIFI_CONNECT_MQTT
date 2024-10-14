@@ -1,0 +1,5 @@
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_resource_if.c:45:10:whd_resource_size	24	static
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_resource_if.c:59:10:whd_get_resource_block_size	24	static
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_resource_if.c:74:10:whd_get_resource_no_of_blocks	24	static
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_resource_if.c:88:10:whd_get_resource_block	40	static
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_resource_if.c:104:10:whd_resource_read	40	static

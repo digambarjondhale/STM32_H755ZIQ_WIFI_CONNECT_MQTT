@@ -1,0 +1,9 @@
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:135:6:WiFiTask	3
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:194:6:wifi_scan	2
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:226:6:scan_check_bssid_in_list	2
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:254:6:scan_result_callback	7
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:305:13:security_to_str	41
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:383:13:print_ip4	1
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:408:6:wifi_connect	13
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:564:6:SDMMC1_IRQHandler	1
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/CM7/Core/Src/wifi_task.c:583:6:HAL_GPIO_EXTI_Callback	1

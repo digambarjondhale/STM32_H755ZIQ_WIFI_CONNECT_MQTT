@@ -1,0 +1,6 @@
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_buffer_api.c:63:14:whd_host_buffer_get	2
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_buffer_api.c:93:14:whd_buffer_release	2
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_buffer_api.c:120:10:whd_buffer_get_current_piece_data_pointer	2
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_buffer_api.c:147:10:whd_buffer_get_current_piece_size	2
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_buffer_api.c:173:14:whd_buffer_set_size	2
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_buffer_api.c:207:14:whd_buffer_add_remove_at_front	2

@@ -1,0 +1,30 @@
+../../../Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/include/whd_proto.h:54:21:whd_proto_get_ioctl_buffer	1
+../../../Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/include/whd_proto.h:65:28:whd_proto_set_ioctl	1
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:106:14:whd_internal_info_init	3
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:135:14:whd_internal_info_deinit	1
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:145:10:whd_get_core_address	4
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:171:14:whd_device_core_is_up	5
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:211:14:whd_reset_core	21
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:271:14:whd_disable_device_core	8
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:333:14:whd_reset_device_core	9
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:396:14:whd_wlan_armcore_run	9
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:456:14:whd_wifi_read_wlan_log_unsafe	20
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:640:6:whd_wifi_peek	4
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:656:6:whd_wifi_poke	4
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:672:14:whd_ioctl_log_add	4
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:696:14:whd_ioctl_log_add_event	3
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:709:14:whd_ioctl_print	12
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:771:6:whd_wifi_chip_info_init	1
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:776:14:whd_wifi_set_custom_country_code	3
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:805:14:whd_chip_specific_socsram_init	5
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:821:14:whd_chip_specific_init	3
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:835:14:whd_allow_wlan_bus_to_sleep	9
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:883:14:whd_wifi_read_wlan_log	13
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:942:14:whd_wifi_print_whd_log	4
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:967:14:whd_wifi_read_fw_capabilities	5
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:991:14:whd_ensure_wlan_bus_is_up	20
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:1095:19:whd_is_fw_sr_capable	16
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:1174:21:whd_enable_save_restore	36
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:1274:21:whd_kso_enable	13
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:1393:6:whd_wlan_wake_from_host	4
+C:/Users/Ganesh Thorat/Desktop/Demo8Oct2024/wifi_scan/Middlewares/Third_Party/Infineon_Wireless_Connectivity/wifi-host-driver/COMPONENT_WIFI5/src/whd_chip.c:1419:14:whd_wlan_bus_complete_ds_wake	45

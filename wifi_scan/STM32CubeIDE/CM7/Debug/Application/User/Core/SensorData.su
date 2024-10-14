@@ -1,0 +1,10 @@
+../Application/User/Core/SensorData.c:19:9:AHT20_Init	16	static
+../Application/User/Core/SensorData.c:41:9:AHT20_IsCalibrated	32	static
+../Application/User/Core/SensorData.c:52:9:AHT20_Initialize	32	static
+../Application/User/Core/SensorData.c:63:9:AHT20_TriggerMeasurement	32	static
+../Application/User/Core/SensorData.c:74:9:AHT20_ReadData	40	static
+../Application/User/Core/SensorData.c:88:7:AHT20_GetTemperature	16	static
+../Application/User/Core/SensorData.c:94:7:AHT20_GetHumidity	16	static
+../Application/User/Core/SensorData.c:99:6:AHT20_SoftReset	32	static
+../Application/User/Core/SensorData.c:109:6:Read_TempAndHumiditySensor	32	static
+../Application/User/Core/SensorData.c:131:6:get_time_date	32	static
